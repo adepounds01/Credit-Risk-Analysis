@@ -1,0 +1,9 @@
+pandas
+plotly
+Pillow
+scikit_learn
+streamlit
+streamlit_option_menu
+numpy
+joblib
+pillow
